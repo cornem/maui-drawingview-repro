@@ -1,0 +1,1 @@
+C:\Src\maui-drawingview-repro\maui-drawingview-repro.csproj;x64
